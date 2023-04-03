@@ -36,7 +36,7 @@
         <mxCell id="y6CPDcHa5VrFaIgvnlRB-32" value="Is pain important?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="430" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Question3" value="Sadistic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="C5RBs43oDa-KdzZeNtuy">
+        <mxCell id="Question3" value="Sadistic" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
             <mxGeometry x="374" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
