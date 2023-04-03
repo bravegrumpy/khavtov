@@ -9,20 +9,17 @@ Everything within `.\brainstorming` is considered non-code, and will not be incl
 ### Options/Iterations
 
 #### algos-lyssa
-<style>
-    .h4 {
-        color: green;
-        background-color: yellow;
-    }
-</style>
-
-- the greek god of pain and the greek goddess of sanity.
-- This speaks to the mission of facilitating negotions for kink scenes, that often involve voluntary pain, but must be practiced in a risk-aware and consensual manner. (Risk Aware Consentual Kink)
+>
+> - has available domains
+> - the greek god of pain and the greek goddess of sanity.
+> - This speaks to the mission of facilitating negotions for kink scenes, that often involve voluntary pain, but must be practiced in a risk-aware and consensual manner. (Risk Aware Consentual Kink)
 
 #### ~~alges~~
 
-> - The greek god of pain is algos and the goddess form is algea. Combined turned into alges.
-> - The pain god is speaks to the pain often involved in kink sceneing. The two gender combinations speaks to gender-bending.
+- ~~domain unavailable~~
+>
+> - ~~The greek god of pain is algos and the goddess form is algea. Combined turned into alges.~~
+> - ~~The pain god is speaks to the pain often involved in kink sceneing. The two gender combinations speaks to gender-bending.~~
 
 ## Tools to be used
 
@@ -33,6 +30,11 @@ Everything within `.\brainstorming` is considered non-code, and will not be incl
   - UML diagrams will likely be useful once we have a bigger thing started.
 
 ## changelog
+
+### 2023_04_03
+
+- changed name to reflect domain availability
+- added in section documenting this
 
 ### 2023_04_02
 
