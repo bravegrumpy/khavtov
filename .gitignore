@@ -1,2 +1,5 @@
-# key for EC2 instance
+# Ignore all private key files
 *.pem
+
+# ignore anytyhing in logins directory
+secrets/
