@@ -2,9 +2,13 @@
 
 An app to keep track of necessary negotiation information for kink scenes.
 
-use [Drawio](https://app.diagrams.net) as the software for diagramming.
+## Tools to be used
 
-- UML diagrams will likely be useful once we have a bigger thing started.
+### diagramming software/filetype
+
+- use [Drawio](https://app.diagrams.net) as the software for diagramming.
+
+  - UML diagrams will likely be useful once we have a bigger thing started.
 
 ## changelog
 
