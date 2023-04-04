@@ -8,11 +8,17 @@ Everything within `.\brainstorming` is considered non-code, and will not be incl
 
 ### Options/Iterations
 
-#### algos-lyssa
->
+### khavtov
+
 > - has available domains
-> - the greek god of pain and the greek goddess of sanity.
-> - This speaks to the mission of facilitating negotions for kink scenes, that often involve voluntary pain, but must be practiced in a risk-aware and consensual manner. (Risk Aware Consentual Kink)
+> - hebrew, translates to good pain
+> - similar to algos-lyssa, but doesn't have the confusing greek, but sounds like just a made-up word.
+
+#### ~~algos-lyssa~~
+>
+> - ~~has available domains~~
+> - ~~the greek god of pain and the greek goddess of sanity.~~
+> - ~~This speaks to the mission of facilitating negotions for kink scenes, that often involve voluntary pain, but must be practiced in a risk-aware and consensual manner. (Risk Aware Consentual Kink)~~
 
 #### ~~alges~~
 
@@ -23,6 +29,13 @@ Everything within `.\brainstorming` is considered non-code, and will not be incl
 
 ## Tools to be used
 
+### Frameworks
+
+Most likely going to use the RAD stack
+    - React Native
+    - Django
+This allows for a really nice front-end, with a python backend, with access to a variety of database options, and access to using either JSON or YAML.
+
 ### diagramming software/filetype
 
 - use [Drawio](https://app.diagrams.net) as the software for diagramming.
@@ -30,6 +43,10 @@ Everything within `.\brainstorming` is considered non-code, and will not be incl
   - UML diagrams will likely be useful once we have a bigger thing started.
 
 ## changelog
+
+### 2023_04_04
+
+- changed name, to khavtov. This is likely to be the final change.
 
 ### 2023_04_03
 
